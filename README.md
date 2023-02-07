@@ -1,6 +1,18 @@
-#Test
-Among Us is a 2018 online multiplayer social deduction game developed and published by American game studio Innersloth. 
-The game was inspired by the party game Mafia and the science fiction horror film The Thing. 
-The game allows for cross-platform play, released on iOS and Android devices in June 2018 and on Windows later that year in November. 
-The game was ported to the Nintendo Switch in December 2020 and on the PlayStation 4, PlayStation 5, Xbox One and Xbox Series X/S in December 2021. 
-A virtual reality adaptation, Among Us VR, was released on November 10, 2022.
+# Портфолио
+## Швейгерт Сергей ИА-132
+
+## Образование
+Закончил МКОУ СОШ №1 г.Чулыма, получив среднее общее образование. Сейчас учусь в СибГУТИ на 2 курсе на направлению ИВТ.
+
+## Навыки в сфере IT
+- Программирование на C/C++
+- Знание базовых алгоритмов сортировки
+- Знания английского языка
+- Базовое программирование HTML/CSS
+
+## Участие в проектах
+- Участие в проекте по созданию реляционной базы данных
+- [Онлайн Журнал] - проект сайта на HTML с использованием CSS и JavsScript
+
+[Онлайн Журнал]: <http://sveygert.7m.pl>
+
